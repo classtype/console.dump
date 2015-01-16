@@ -12,7 +12,7 @@
       "email": "albalyu@gmail.com"
     }
   ],
-  "main": "console.dump.js",
+  "main": "src/console.dump.js",
   "homepage": "http://github.com/classtype/console.dump",
   "repository": {
     "type": "git",
