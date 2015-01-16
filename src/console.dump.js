@@ -43,5 +43,3 @@ global.console.dump = (function() {
         }
     };
 })();
-
-console.dump({});

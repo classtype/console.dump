@@ -1,6 +1,6 @@
 {
   "name": "console.dump",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Модуль для получения дампа объекта.",
   "contributors": [
     {
