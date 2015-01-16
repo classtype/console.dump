@@ -1,0 +1,36 @@
+{
+  "name": "console.dump",
+  "version": "1.0.0",
+  "description": "Модуль для получения дампа объекта.",
+  "contributors": [
+    {
+      "name": "Sergei Korenkov",
+      "email": "classtype@mail.ru"
+    },
+    {
+      "name": "Aleksandr Balyunov",
+      "email": "albalyu@gmail.com"
+    }
+  ],
+  "main": "console.dump.js",
+  "homepage": "http://github.com/classtype/console.dump",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/classtype/console.dump.git"
+  },
+  "bugs": {
+    "url": "http://github.com/classtype/console.dump/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/classtype/console.dump/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "Модуль для получения дампа объекта.",
+    "object dump",
+    "dumper",
+    "dump"
+  ]
+}
